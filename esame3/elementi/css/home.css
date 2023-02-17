@@ -1,0 +1,82 @@
+/* screen - home */
+
+.home {
+  align-items: center;
+  background-color: #000000;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2437px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.home .image-20 {
+  height: 84px;
+  margin-top: 83px;
+  object-fit: cover;
+  width: 308px;
+}
+
+.home .image-4 {
+  height: 217px;
+  margin-right: 1.0px;
+  margin-top: 53px;
+  width: 221px;
+}
+
+.home .image-5 {
+  cursor: pointer;
+  height: 219px;
+  margin-top: 35px;
+  width: 212px;
+}
+
+.home .image-6 {
+  height: 221px;
+  margin-right: 1.0px;
+  margin-top: 21px;
+  width: 219px;
+}
+
+.home .image-3 {
+  height: 217px;
+  margin-top: 28px;
+  width: 224px;
+}
+
+.home .image-7 {
+  height: 218px;
+  margin-right: 3.0px;
+  margin-top: 26px;
+  width: 213px;
+}
+
+.home .image-8 {
+  height: 209px;
+  margin-right: 2.0px;
+  margin-top: 32px;
+  width: 204px;
+}
+
+.home .image {
+  height: 209px;
+  margin-left: 5.0px;
+  margin-top: 36px;
+  width: 205px;
+}
+
+.home .image-11 {
+  cursor: pointer;
+  height: 214px;
+  margin-top: 36px;
+  width: 208px;
+}
+
+.home .group {
+  align-self: flex-start;
+  height: 252px;
+  margin-left: -3472.04px;
+  margin-top: 2447px;
+  width: 318px;
+}
